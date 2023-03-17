@@ -1,5 +1,7 @@
-OIBSIP- Oasis Infobyte
-A Repository which contains a group of tasks comes under the part of Oasis Infobyte Internship.
+OIBSIP--Oasis Infobyte
 
-Task1: A Product Landing Page
-  --- th
+Task-1: A Product Landing Page
+
+This is a product landing page which it contains the free learning sources to learn programming and develop skills.
+
+Below is the website Link: https://dineshkuddana.github.io/OIBSIP-Task1-Product-Landing-Page/
